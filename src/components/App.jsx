@@ -7,10 +7,10 @@ export const App = () => {
         justifyContent: 'center',
         alignItems: 'center',
         fontSize: 40,
-        color: '#010101'
+        color: '#E1E6AE'
       }}
     >
-      React homework template
+      Wooden crafts
     </div>
   );
 };
