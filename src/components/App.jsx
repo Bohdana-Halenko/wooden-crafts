@@ -7,7 +7,8 @@ export const App = () => {
         justifyContent: 'center',
         alignItems: 'center',
         fontSize: 40,
-        color: '#E1E6AE'
+        background: '#E1E6AE',
+        color: '#000'
       }}
     >
       Wooden crafts
